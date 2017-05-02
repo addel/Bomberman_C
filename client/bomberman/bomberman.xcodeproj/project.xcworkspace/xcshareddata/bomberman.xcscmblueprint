@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8cb38209-3d26-4889-b858-8749620645ac++5722",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cb38209-3d26-4889-b858-8749620645ac++5722" : {
+
+    },
+    "a52f3d4d-7341-4d33-ad15-172373be333f++8264" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cb38209-3d26-4889-b858-8749620645ac++5722" : 0,
+    "a52f3d4d-7341-4d33-ad15-172373be333f++8264" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79C73765-C712-453B-88F1-E8F6184C5991",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cb38209-3d26-4889-b858-8749620645ac++5722" : "bomberman\/",
+    "a52f3d4d-7341-4d33-ad15-172373be333f++8264" : "Fondation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bomberman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "client\/bomberman\/bomberman.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/rendu-svn.etna-alternance.net\/v2\/2017_Master%20-%20Octobre_TIC-DVC4_1_0-1563",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cb38209-3d26-4889-b858-8749620645ac++5722"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/rendu-svn.etna-alternance.net\/v2\/2017_Bachelor%20-%20Octobre_TIC-DVC3_1_0-1115",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a52f3d4d-7341-4d33-ad15-172373be333f++8264"
+    }
+  ]
+}
